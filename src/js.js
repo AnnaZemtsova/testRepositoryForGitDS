@@ -1,4 +1,4 @@
 function f() {
-    var a = 6+8;
-    return a;
+    var b = 1+8;
+    return b;
 }
